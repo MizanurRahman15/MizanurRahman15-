@@ -19,9 +19,9 @@
   Presidency University, Bangladesh  
   *2025 – 2029 (Expected)*  
 
-**Diploma in Engineering (CSE)**  
-  Feni Government Polytechnic Institute, [Dhaka]  
-  *2020 – 2024*  
+  **Diploma in Engineering (CSE)**  
+    Feni Government Polytechnic Institute, [Dhaka]  
+    *2020 – 2024*  
 
 
 ## 🛠️ Languages and Tools
