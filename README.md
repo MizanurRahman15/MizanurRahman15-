@@ -19,9 +19,13 @@
   Presidency University, Bangladesh  
   *2025 – 2029 (Expected)*  
 
-  **Diploma in Engineering (CSE)**  
+- **Diploma in Engineering (CSE)**  
     Feni Government Polytechnic Institute, [Dhaka]  
-    *2020 – 2024*  
+    *2020 – 2024*
+
+- **Secondary School Certificate (SSC)**  
+  Zamider Hat High School, [Comilla]  
+  *2018 – 2020*  
 
 
 ## 🛠️ Languages and Tools
@@ -36,9 +40,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Mijanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Mijanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRahman15&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanurRahman15&layout=compact&theme=tokyonight)
 
 ---
 
