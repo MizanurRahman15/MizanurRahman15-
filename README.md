@@ -51,6 +51,9 @@
 <a https://www.facebook.com/mizanur.rahman.439102" target="blank">
 <img align="center" src="https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
+  <a https://linkedin.com/in/mizanur-rahman-chowdhury-7b96b4387" target="blank">
+<img align="center" src="https://img.shields.io/badge/linkdin-0A66C2?style=for-the-badge&logo=linkdin&logoColor=white" />
+</a>
 <a href="mailto:rmdmijanur883@@gmail.com" target="blank">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
